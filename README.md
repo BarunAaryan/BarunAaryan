@@ -4,15 +4,10 @@
 <p align="left"> <a href="https://twitter.com/barunaaryan" target="blank"><img src="https://img.shields.io/twitter/follow/barunaaryan?logo=twitter&style=for-the-badge" alt="barunaaryan" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Web Design**
-- 
 - 💪 I want to learn **Web Design**
-- 
 - 💬 Ask me about **Reactjs, Javascript, JAVA**
-- 
 - 📫 How to reach me **barun.aaryan@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1p8dojimKyg_NrZbUQqgzdnkii194de3c/view?usp=sharing](https://drive.google.com/file/d/1p8dojimKyg_NrZbUQqgzdnkii194de3c/view?usp=sharing)
-
 - ⚡ Fun fact **I can bring a smile to your face.**
 
 <h3 align="left">Connect with me:</h3>
