@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/barunaaryan" target="blank"><img src="https://img.shields.io/twitter/follow/barunaaryan?logo=twitter&style=for-the-badge" alt="barunaaryan" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Generative AI**
 - 💪 I want to learn **Web Design**
 - 💬 Ask me about **Reactjs, Javascript, JAVA**
 - 📫 How to reach me **barun.aaryan@gmail.com**
